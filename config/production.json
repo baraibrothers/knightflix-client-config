@@ -1,1 +1,6 @@
-
+{
+  "schemaVersion": 1,
+  "server": {
+    "url": "https://knightflix.in/"
+  }
+}
