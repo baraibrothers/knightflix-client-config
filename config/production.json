@@ -27,7 +27,7 @@
                       "apkUrl":  "https://knightflix.in/downloads/android-tv/0.0.8/KnightFlixTV-0.0.8.apk",
                       "apkSha256":  "a5c57d924b80f5237c3a6b3abd2d501d62b6a0ecad0c48754cd36aa9c6a73ac7",
                       "minVersionCode":  399,
-                      "updateRequired":  false
+                      "updateRequired":  true
                   },
     "gotify":  {
                    "enabled":  true,
