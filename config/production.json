@@ -19,7 +19,7 @@
                     "apkUrl":  "https://knightflix.in/downloads/android/0.0.4/KnightFlix-0.0.4.apk",
                     "apkSha256":  "7f17eec4c8a1ce29feceb454c1e24a9fa6e3e26f057ceb7e2efa43a10c8c820a",
                     "minVersionCode":  399,
-                    "updateRequired":  false
+                    "updateRequired":  true
                 },
     "androidTv":  {
                       "versionCode":  999,
