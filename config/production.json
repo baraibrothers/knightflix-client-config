@@ -19,7 +19,7 @@
                     "apkUrl":  "https://knightflix.in/downloads/android/0.0.5/KnightFlix-0.0.5.apk",
                     "apkSha256":  "438e72c1718d6f4210dcee7e953f52f963570141360a4d15712ead3118c576cb",
                     "minVersionCode":  399,
-                    "updateRequired":  true
+                    "updateRequired":  false
                 },
     "androidTv":  {
                       "versionCode":  999,
