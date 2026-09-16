@@ -19,7 +19,7 @@
                     "apkUrl":  "https://knightflix.in/downloads/test/android/0.0.4/KnightFlix-0.0.4-debug.apk",
                     "apkSha256":  "e9f36ab756c5bbb3dcc33342dae135c031ad35d3e9e8a0997ca3b25652fe5f07",
                     "minVersionCode":  399,
-                    "updateRequired":  false
+                    "updateRequired":  true
                 },
     "androidTv":  {
                       "versionCode":  999,
