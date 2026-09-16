@@ -14,10 +14,10 @@
                               }
                },
     "android":  {
-                    "versionCode":  599,
-                    "versionName":  "0.0.5",
-                    "apkUrl":  "https://knightflix.in/downloads/test/android/0.0.5/KnightFlix-0.0.5-debug.apk",
-                    "apkSha256":  "188bc8da1f1d26d3a1f73c0ef1ac8342595cb7df983e5a624c62e06823c263f7",
+                    "versionCode":  399,
+                    "versionName":  "0.0.3",
+                    "apkUrl":  "https://knightflix.in/downloads/test/android/0.0.3/KnightFlix-0.0.3-debug.apk",
+                    "apkSha256":  "6910f8ba66ed199284be007c68a916127c005b277c1974b7cc66c8e049a47608",
                     "minVersionCode":  399,
                     "updateRequired":  false
                 },
