@@ -19,7 +19,7 @@
                     "apkUrl":  "https://knightflix.in/downloads/test/android/0.0.5/KnightFlix-0.0.5-debug.apk",
                     "apkSha256":  "75e1c4d35d3dea18e448806f4a0e0b7d11c0b76e58911a7e395197e6ac63a617",
                     "minVersionCode":  399,
-                    "updateRequired":  test
+                    "updateRequired":  true
                 },
     "androidTv":  {
                       "versionCode":  699,
