@@ -1,45 +1,45 @@
 {
-    "schemaVersion":  2,
-    "server":  {
-                   "local":  {
-                                 "enabled":  true,
-                                 "urls":  [
-                                              "http://192.168.1.7:8097/"
-                                          ],
-                                 "connectTimeoutMs":  500,
-                                 "readTimeoutMs":  1000
-                             },
-                   "remote":  {
-                                  "url":  "https://knightflix.in/"
-                              }
-               },
-    "android":  {
-                    "versionCode":  899,
-                    "versionName":  "0.0.8",
-                    "apkUrl":  "https://knightflix.in/downloads/android/0.0.8/KnightFlix-0.0.8.apk",
-                    "apkSha256":  "ec3941f2ef0162a271e0df8ac566748c2d35dd3504ffad5f5b38b227c55d7fd0",
-                    "minVersionCode":  399,
-                    "updateRequired":  false
-                },
-    "androidTv":  {
-                      "versionCode":  1199,
-                      "versionName":  "0.0.11",
-                      "apkUrl":  "https://knightflix.in/downloads/android-tv/0.0.11/KnightFlixTV-0.0.11.apk",
-                      "apkSha256":  "09d1fb2069261f4139022f066ed809261d6d681bc8e967a2954926bcdc269d99",
-                      "minVersionCode":  399,
-                      "updateRequired":  false
-                  },
-    "gotify":  {
-                   "enabled":  true,
-                   "serverUrl":  "https://gotify.knightflix.in/",
-                   "appToken":  "AI41A0PXtrpHy5Y",
-                   "events":  {
-                                  "appOpened":  true,
-                                  "updateDetected":  true,
-                                  "updateDownloaded":  true,
-                                  "installStarted":  true,
-                                  "updateVerified":  true,
-                                  "updateFailed":  true
-                              }
-               }
+    "schemaVersion": 2,
+    "server": {
+        "local": {
+            "enabled": true,
+            "urls": [
+                "http://192.168.1.7:8097/"
+            ],
+            "connectTimeoutMs": 500,
+            "readTimeoutMs": 1000
+        },
+        "remote": {
+            "url": "https://knightflix.in/"
+        }
+    },
+    "android": {
+        "versionCode": 899,
+        "versionName": "0.0.8",
+        "apkUrl": "https://knightflix.in/downloads/android/0.0.8/KnightFlix-0.0.8.apk",
+        "apkSha256": "ec3941f2ef0162a271e0df8ac566748c2d35dd3504ffad5f5b38b227c55d7fd0",
+        "minVersionCode": 399,
+        "updateRequired": true
+    },
+    "androidTv": {
+        "versionCode": 1199,
+        "versionName": "0.0.11",
+        "apkUrl": "https://knightflix.in/downloads/android-tv/0.0.11/KnightFlixTV-0.0.11.apk",
+        "apkSha256": "09d1fb2069261f4139022f066ed809261d6d681bc8e967a2954926bcdc269d99",
+        "minVersionCode": 399,
+        "updateRequired": true
+    },
+    "gotify": {
+        "enabled": true,
+        "serverUrl": "https://gotify.knightflix.in/",
+        "appToken": "AI41A0PXtrpHy5Y",
+        "events": {
+            "appOpened": true,
+            "updateDetected": true,
+            "updateDownloaded": true,
+            "installStarted": true,
+            "updateVerified": true,
+            "updateFailed": true
+        }
+    }
 }
