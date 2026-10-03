@@ -25,9 +25,9 @@
                       "versionCode":  699,
                       "versionName":  "0.0.6",
                       "apkUrl":  "https://knightflix.in/downloads/test/android-tv/0.0.6/KnightFlixTV-0.0.6-debug.apk",
-                      "apkSha256":  "8de20ce029e5e0f82184ed91be466af2df854f1b6f1c0f2671e801e666bcda1c",
+                      "apkSha256":  "2b0b9f03555e086217fcdec6c3716bc8b27a6e3e454f0bc48819968ee669d312",
                       "minVersionCode":  399,
-                      "updateRequired":  true
+                      "updateRequired":  false
                   },
     "gotify":  {
                    "enabled":  true,
