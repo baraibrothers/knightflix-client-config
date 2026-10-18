@@ -27,7 +27,7 @@
                       "apkUrl":  "https://knightflix.in/downloads/test/android-tv/0.0.12/KnightFlixTV-0.0.12-debug.apk",
                       "apkSha256":  "a7412183cca9c806024cdd891224401fef1a3f6ebb0a6905f4b87ac6aedaeced",
                       "minVersionCode":  399,
-                      "updateRequired":  false
+                      "updateRequired":  true
                   },
     "gotify":  {
                    "enabled":  true,
