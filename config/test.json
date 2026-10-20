@@ -22,10 +22,10 @@
                     "updateRequired":  false
                 },
     "androidTv":  {
-                      "versionCode":  1499,
-                      "versionName":  "0.0.14",
-                      "apkUrl":  "https://knightflix.in/downloads/test/android-tv/0.0.14/KnightFlixTV-0.0.14-debug.apk",
-                      "apkSha256":  "dc69d5943354e15394e06f3731cc0bd55d945123ea314f22a80518a10f980017",
+                      "versionCode":  1599,
+                      "versionName":  "0.0.15",
+                      "apkUrl":  "https://knightflix.in/downloads/test/android-tv/0.0.15/KnightFlixTV-0.0.15-debug.apk",
+                      "apkSha256":  "2c80a6c03f54e1329c6a006789524b72bce349ff0510e413a32a064969c1c785",
                       "minVersionCode":  399,
                       "updateRequired":  false
                   },
